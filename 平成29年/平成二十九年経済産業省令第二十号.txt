@@ -112,12 +112,12 @@
 <表略>
 
 
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
-<{node.tag}略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
+<AppdxStyle略>
