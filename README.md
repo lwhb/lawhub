@@ -3,8 +3,8 @@
 
 
 現在、以下の機能がサポートされています。
-* [e-Govの法令データ](https://elaws.e-gov.go.jp/download/lawdownload.html)にあわせてmasterブランチを更新する
-* [衆議院の議案データ](http://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/menu.htm)にあわせてfeatureブランチを作成し、pull requestを作成する
+* [e-Gov](https://elaws.e-gov.go.jp/download/lawdownload.html)の法令データにあわせてmasterブランチを更新する ([releases](https://github.com/lwhb/lawhub/releases))
+* [衆議院](http://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/menu.htm)の議案データにあわせてfeatureブランチを作成し、pull requestを作成する ([pulls](https://github.com/lwhb/lawhub/pulls))
 
 次の機能は含みません。
 * 作成したpull requestをマージする
