@@ -10,4 +10,4 @@
 * 作成したpull requestをマージする
 * 議案提出者に応じてauthorを変更する
 
-[![diagram](diagram.png)
+![diagram](diagram.png)
